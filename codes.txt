@@ -1,0 +1,10 @@
+cd "C:\Users\asus\Downloads\IT Capstone 1"
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
+
+
+deactivate 
+
+
+serp key 
+a0280c90a56a8d2f4e21e605f61cf3dd30fe0196b5ffeaa482f60be5d6f4e18e
