@@ -19,7 +19,7 @@ create_database()
 LOGO = "logo2.png"   # make sure logo2.png is in the same folder as app.py
 
 # ⚠️ Put YOUR real SerpAPI key here
-API_KEY = API_KEY = st.secrets["SERPAPI_API_KEY"]
+API_KEY = st.secrets["SERPAPI_API_KEY"]
 
 # Country → Region options
 COUNTRY_REGIONS = {
@@ -383,3 +383,4 @@ st.markdown("""
 Created by <b>Mohamed Imaad Muhinudeen (s8078260)</b> & <b>Kavin Nanthakumar (s8049341)</b> | All Rights Reserved | KidsSmart+
 </div>
 """, unsafe_allow_html=True)
+
