@@ -1,5 +1,7 @@
 streamlit
-pandas
-requests
 beautifulsoup4
+requests
 google-search-results
+python-dateparser
+pandas
+
